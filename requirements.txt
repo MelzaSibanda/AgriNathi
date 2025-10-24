@@ -7,7 +7,7 @@ openai-whisper
 googletrans==4.0.0rc1
 gtts
 firebase-admin
-torch
-torchvision
-torchaudio
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
 ffmpeg-python
